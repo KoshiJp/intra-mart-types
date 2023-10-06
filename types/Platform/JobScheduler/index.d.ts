@@ -1,0 +1,9 @@
+/// <reference path="Filter.d.ts"/>
+/// <reference path="JobCategory.d.ts"/>
+/// <reference path="JobDetail.d.ts"/>
+/// <reference path="Jobnet.d.ts"/>
+/// <reference path="JobnetCategory.d.ts"/>
+/// <reference path="JobSchedulerContext.d.ts"/>
+/// <reference path="JobSchedulerManager.d.ts"/>
+/// <reference path="PluralJobnetFilter.d.ts"/>
+/// <reference path="Trigger.d.ts"/>
